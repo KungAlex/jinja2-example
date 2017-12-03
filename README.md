@@ -1,2 +1,1 @@
-# jinja2-example
-Jinja2 Exmaples
+# Jinja2 Example
